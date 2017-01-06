@@ -9,7 +9,7 @@ gacode: "UA-44373548-7"
 description:
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://doctools.github.io" # the base hostname & protocol for your site
-ghrepo: "facebook/infer"
+ghrepo: "doctools/doctools"
 
 markdown: kramdown
 kramdown:
